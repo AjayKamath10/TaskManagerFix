@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PrintScannerProject/1.0.0": {
+        "dependencies": {
+          "PrinterProject": "1.0.0",
+          "ScannerProject": "1.0.0"
+        },
+        "runtime": {
+          "PrintScannerProject.dll": {}
+        }
+      },
+      "PrinterProject/1.0.0": {
+        "runtime": {
+          "PrinterProject.dll": {}
+        }
+      },
+      "ScannerProject/1.0.0": {
+        "runtime": {
+          "ScannerProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrintScannerProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrinterProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ScannerProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

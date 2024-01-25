@@ -1,0 +1,17 @@
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\bin\Debug\net8.0\PrintScannerProject.deps.json
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\bin\Debug\net8.0\PrintScannerProject.dll
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\bin\Debug\net8.0\PrintScannerProject.pdb
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\bin\Debug\net8.0\PrinterProject.dll
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\bin\Debug\net8.0\ScannerProject.dll
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\bin\Debug\net8.0\PrinterProject.pdb
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\bin\Debug\net8.0\ScannerProject.pdb
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\obj\Debug\net8.0\PrintScannerProject.csproj.AssemblyReference.cache
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\obj\Debug\net8.0\PrintScannerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\obj\Debug\net8.0\PrintScannerProject.AssemblyInfoInputs.cache
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\obj\Debug\net8.0\PrintScannerProject.AssemblyInfo.cs
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\obj\Debug\net8.0\PrintScannerProject.csproj.CoreCompileInputs.cache
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\obj\Debug\net8.0\PrintScannerProject.csproj.CopyComplete
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\obj\Debug\net8.0\PrintScannerProject.dll
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\obj\Debug\net8.0\refint\PrintScannerProject.dll
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\obj\Debug\net8.0\PrintScannerProject.pdb
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrintScannerProject\obj\Debug\net8.0\ref\PrintScannerProject.dll

@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "PrinterProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PrinterProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrinterProject.dll": {}
+        }
+      },
+      "ScannerProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ScannerProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ScannerProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrinterProject/1.0.0": {
+      "type": "project",
+      "path": "../PrinterProject/PrinterProject.csproj",
+      "msbuildProject": "../PrinterProject/PrinterProject.csproj"
+    },
+    "ScannerProject/1.0.0": {
+      "type": "project",
+      "path": "../ScannerProject/ScannerProject.csproj",
+      "msbuildProject": "../ScannerProject/ScannerProject.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "PrinterProject >= 1.0.0",
+      "ScannerProject >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\x6akamat\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\x6akamat\\Desktop\\bootcamp\\cs\\PrintScannerProject\\PrintScannerProject.csproj",
+      "projectName": "PrintScannerProject",
+      "projectPath": "C:\\Users\\x6akamat\\Desktop\\bootcamp\\cs\\PrintScannerProject\\PrintScannerProject.csproj",
+      "packagesPath": "C:\\Users\\x6akamat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\x6akamat\\Desktop\\bootcamp\\cs\\PrintScannerProject\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\x6akamat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\x6akamat\\Desktop\\bootcamp\\cs\\PrinterProject\\PrinterProject.csproj": {
+              "projectPath": "C:\\Users\\x6akamat\\Desktop\\bootcamp\\cs\\PrinterProject\\PrinterProject.csproj"
+            },
+            "C:\\Users\\x6akamat\\Desktop\\bootcamp\\cs\\ScannerProject\\ScannerProject.csproj": {
+              "projectPath": "C:\\Users\\x6akamat\\Desktop\\bootcamp\\cs\\ScannerProject\\ScannerProject.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrinterProject\bin\Debug\net8.0\PrinterProject.deps.json
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrinterProject\bin\Debug\net8.0\PrinterProject.dll
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrinterProject\bin\Debug\net8.0\PrinterProject.pdb
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrinterProject\obj\Debug\net8.0\PrinterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrinterProject\obj\Debug\net8.0\PrinterProject.AssemblyInfoInputs.cache
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrinterProject\obj\Debug\net8.0\PrinterProject.AssemblyInfo.cs
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrinterProject\obj\Debug\net8.0\PrinterProject.csproj.CoreCompileInputs.cache
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrinterProject\obj\Debug\net8.0\PrinterProject.dll
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrinterProject\obj\Debug\net8.0\refint\PrinterProject.dll
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrinterProject\obj\Debug\net8.0\PrinterProject.pdb
+C:\Users\x6akamat\Desktop\bootcamp\cs\PrinterProject\obj\Debug\net8.0\ref\PrinterProject.dll
