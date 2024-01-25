@@ -16,15 +16,6 @@ namespace TaskManagerProject
         {
             scanner.Scan(documentPath);
         }
-        public static void ExecutePrintTask(IPrintScanner printScanner, string documentPath)
-        {
 
-            printScanner.ExecutePrintTask(documentPath);
-        }
-
-        public static void ExecuteScanTask(IPrintScanner printScanner, string documentPath)
-        {
-            printScanner.ExecuteScanTask(documentPath);
-        }
     }
 }
