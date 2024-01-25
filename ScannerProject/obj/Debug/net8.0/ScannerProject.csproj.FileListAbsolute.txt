@@ -1,0 +1,11 @@
+C:\Users\x6akamat\Desktop\bootcamp\cs\ScannerProject\bin\Debug\net8.0\ScannerProject.deps.json
+C:\Users\x6akamat\Desktop\bootcamp\cs\ScannerProject\bin\Debug\net8.0\ScannerProject.dll
+C:\Users\x6akamat\Desktop\bootcamp\cs\ScannerProject\bin\Debug\net8.0\ScannerProject.pdb
+C:\Users\x6akamat\Desktop\bootcamp\cs\ScannerProject\obj\Debug\net8.0\ScannerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x6akamat\Desktop\bootcamp\cs\ScannerProject\obj\Debug\net8.0\ScannerProject.AssemblyInfoInputs.cache
+C:\Users\x6akamat\Desktop\bootcamp\cs\ScannerProject\obj\Debug\net8.0\ScannerProject.AssemblyInfo.cs
+C:\Users\x6akamat\Desktop\bootcamp\cs\ScannerProject\obj\Debug\net8.0\ScannerProject.csproj.CoreCompileInputs.cache
+C:\Users\x6akamat\Desktop\bootcamp\cs\ScannerProject\obj\Debug\net8.0\ScannerProject.dll
+C:\Users\x6akamat\Desktop\bootcamp\cs\ScannerProject\obj\Debug\net8.0\refint\ScannerProject.dll
+C:\Users\x6akamat\Desktop\bootcamp\cs\ScannerProject\obj\Debug\net8.0\ScannerProject.pdb
+C:\Users\x6akamat\Desktop\bootcamp\cs\ScannerProject\obj\Debug\net8.0\ref\ScannerProject.dll
