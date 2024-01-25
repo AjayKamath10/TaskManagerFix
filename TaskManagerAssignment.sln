@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagerAssignment", "TaskManagerAssignment.csproj", "{21599489-7805-4F52-B0C1-11224CED5F42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterProject", "..\PrinterProject\PrinterProject.csproj", "{0A814EEE-99F7-49B5-9CC4-267BB5FD961F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScannerProject", "..\ScannerProject\ScannerProject.csproj", "{11D844BB-4EF8-4BBA-8D62-CA04442ED698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintScannerProject", "..\PrintScannerProject\PrintScannerProject.csproj", "{FAB4E724-1F41-4259-88E9-23AA717AD8C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagerProject", "..\TaskManagerProject\TaskManagerProject.csproj", "{ED1CF60E-6335-4CE0-A8A3-373A86B69682}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21599489-7805-4F52-B0C1-11224CED5F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21599489-7805-4F52-B0C1-11224CED5F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21599489-7805-4F52-B0C1-11224CED5F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21599489-7805-4F52-B0C1-11224CED5F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A814EEE-99F7-49B5-9CC4-267BB5FD961F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A814EEE-99F7-49B5-9CC4-267BB5FD961F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A814EEE-99F7-49B5-9CC4-267BB5FD961F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A814EEE-99F7-49B5-9CC4-267BB5FD961F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D844BB-4EF8-4BBA-8D62-CA04442ED698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D844BB-4EF8-4BBA-8D62-CA04442ED698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D844BB-4EF8-4BBA-8D62-CA04442ED698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D844BB-4EF8-4BBA-8D62-CA04442ED698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB4E724-1F41-4259-88E9-23AA717AD8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB4E724-1F41-4259-88E9-23AA717AD8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB4E724-1F41-4259-88E9-23AA717AD8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB4E724-1F41-4259-88E9-23AA717AD8C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1CF60E-6335-4CE0-A8A3-373A86B69682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1CF60E-6335-4CE0-A8A3-373A86B69682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1CF60E-6335-4CE0-A8A3-373A86B69682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1CF60E-6335-4CE0-A8A3-373A86B69682}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0E0F73F-C176-4B37-8768-6DFB03C7C881}
+	EndGlobalSection
+EndGlobal
