@@ -3,7 +3,7 @@ using ScannerProject;
 
 namespace PrintScannerProject
 {
-    public class PrintScanner : IPrintScanner
+    public class PrintScanner : IScanner, IPrinter
     {
         private IPrinter printer ;
         private IScanner scanner ;
@@ -14,12 +14,12 @@ namespace PrintScannerProject
             this.scanner = new Scanner();
         }
 
-        public void ExecutePrintTask(string documentPath)
+        public void Print(string documentPath)
         {
             printer.Print(documentPath);
         }
 
-        public void ExecuteScanTask(string documentPath)
+        public void Scan(string documentPath)
         {
             scanner.Scan(documentPath);
         }
